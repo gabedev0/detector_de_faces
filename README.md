@@ -176,8 +176,3 @@ cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 240)
 - Sensível ao ângulo da face
 - Classificadores Haar são menos precisos que métodos modernos (deep learning)
 - Não identifica pessoas específicas, apenas detecta presença
-
----
-
-**Aplicações**: Sistemas de segurança, interfaces homem-máquina, análise comportamental  
-**Licença**: MIT
